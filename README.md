@@ -1,2 +1,2 @@
 # QAList
-  ![Alt text](/screenshot/UI.png?raw=true "Start Page")<br />
+  ![Alt text](/faqslider/screenshot/UI.png?raw=true "Start Page")<br />
